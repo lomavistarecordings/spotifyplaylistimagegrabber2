@@ -1,0 +1,9 @@
+node_modules
+.next
+npm-debug.log*
+.DS_Store
+.env.local
+.env
+
+# Log generated while attempting to install dependencies
+npm-install.log
